@@ -9,6 +9,7 @@ This repository is my experiment in "Zero-Brain Development" - where I'm letting
 
 💡 Think of it as "Inception" but for coding - it's AI all the way down!
 
+The fun part is even the code push is automated and I am thinking of giving commands verbally
 
 # GitNotify
 
